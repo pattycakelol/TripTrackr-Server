@@ -1,2 +1,3 @@
 # TripTrackr-Server
-Server files for TripTrackr
+
+Server files for TripTracker using MongoDB and Node.js backend
